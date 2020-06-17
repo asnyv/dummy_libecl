@@ -1,0 +1,2 @@
+class EclGrid:
+    pass
